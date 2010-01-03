@@ -1,5 +1,5 @@
 Package: divisors
-Version: 0.1-1
+Version: 0.1-4
 Date: 2010-01-03
 Title: Find the divisors of a number
 Author: Greg Hirson <ghirson@ucdavis.edu>
@@ -9,6 +9,6 @@ Description: Finds and counts the divisors of a number, (mostly)
         implemented in C.
 License: GPL (>= 2)
 URL: http://cran.r-project.org/package=divisors
-Packaged: 2010-09-23 20:13:02 UTC; greg
+Packaged: 2010-09-26 16:13:39 UTC; greg
 Repository: CRAN
-Date/Publication: 2010-09-24 06:46:06
+Date/Publication: 2010-09-26 18:14:10

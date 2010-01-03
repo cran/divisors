@@ -2,7 +2,7 @@
 #include <math.h>
 #include <R.h>
 
-void numdivs(int *n, double *out){
+void numdivs(int *n, int *out){
   //too large by 1 if n is perfect square. accounted for in R
   //figure out a way to do in C
   int i = 1;

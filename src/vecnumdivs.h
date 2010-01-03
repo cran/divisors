@@ -1,0 +1,1 @@
+int numdivsint(int x);
